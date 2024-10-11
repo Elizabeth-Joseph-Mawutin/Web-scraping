@@ -11,7 +11,11 @@ The program uses BeautifulSoup and pandas libraries to parse the HTML and conver
 - Exports the data into CSV format.
 - Simple and efficient for users looking to extract structured data from Wikipedia.
 
+## Dataset
+https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
+
 ## Required libraries:
 - requests
 - BeautifulSoup
 - pandas
+
